@@ -1,16 +1,30 @@
-### Hi there 👋
+<i class="devicon-mysql-plain-wordmark"></i>
 
-<!--
-**beytucanclk/beytucanclk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Merhaba! 👋
 
-Here are some ideas to get you started:
+###### Ben Beytullah ÇOLAK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
+#### Projects:
+📌 [Online Doktor Görüşme Sistemi](https://github.com/beytucanclk/Online-Doktor) 
+
+
+##
+
+
+<img align="left" width="40px" src="https://img.shields.io/badge/-241F31?logo=html5" alt="DenilsonBrito-HTML-5" />
+<img align="left" width="40px" src="https://img.shields.io/badge/-241F31?logo=css3" alt="DenilsonBrito-CSS-3" />
+<img align="left" width="40px" src="https://img.shields.io/badge/-241F31?logo=javascript" alt="DenilsonBrito-JavaScript" />
+<img align="left" width="40px" src="https://img.shields.io/badge/-241F31?logo=node.js" alt="DenilsonBrito-Node.JS />
+
+<img align="left" width="40px" src="https://img.shields.io/badge/-0A0A23?logo=mysql" alt="DenilsonBrito-MySQL" />
+<img align="left" width="40px" src="https://img.shields.io/badge/-0A0A23?logo=microsoftsqlserver" alt="DenilsonBrito-SQLServer" />
+<img align="left" width="40px" src="https://img.shields.io/badge/-0A0A23?logo=sqlite" alt="DenilsonBrito-SQLite" />
+
+&nbsp;
+#### social media accounts:
+
+
+<a href="//www.linkedin.com/in/beytullahcolak/">
+  <img align="left" width="73px" src="https://img.shields.io/badge/Linkedin-241F31?logo=linkedin" alt="DenilsonBrito-Linkedin" />
+</a>
